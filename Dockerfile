@@ -14,7 +14,7 @@ RUN --mount=type=cache,target=/root/.m2/repository \
     sh -c 'for i in 1 2 3; do \
       mvn -B -ntp dependency:go-offline && break; \
       if [ "$i" -eq 3 ]; then exit 1; fi; \
-      sleep $((i * 20)); \
+      sleep $((i * 40)); \
     done'
 
 # Copy source only after dependency resolution
@@ -25,7 +25,7 @@ RUN --mount=type=cache,target=/root/.m2/repository \
     sh -c 'for i in 1 2 3; do \
       mvn -B -ntp -DskipTests package && break; \
       if [ "$i" -eq 3 ]; then exit 1; fi; \
-      sleep $((i * 20)); \
+      sleep $((i * 40)); \
     done'
 
 # Runtime stage
