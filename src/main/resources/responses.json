@@ -1,3 +1,1922 @@
 [
-  {"id":"r1","text":"A disappointing birthday party."},{"id":"r2","text":"Puppies!"},{"id":"r3","text":"A timeless tale of courage and love."},{"id":"r4","text":"An unhinged PowerPoint presentation."},{"id":"r5","text":"Existential dread."},{"id":"r6","text":"Warm cookies and cold milk."},{"id":"r7","text":"Passive-aggressive sticky notes."},{"id":"r8","text":"Accidentally replying to all."},{"id":"r9","text":"A really aggressive flock of geese."},{"id":"r10","text":"WiFi that only works when standing on one leg."},{"id":"r11","text":"Spilling gravy on your white shirt."},{"id":"r12","text":"A suspicious unmarked package."},{"id":"r13","text":"Crying in a walk-in freezer."},{"id":"r14","text":"Unsolicited ukulele solos."},{"id":"r15","text":"Microwaving fish in the breakroom."},{"id":"r16","text":"A dramatic pause."},{"id":"r17","text":"Overthinking every single interaction since 2012."},{"id":"r18","text":"A lukewarm cup of tap water."},{"id":"r19","text":"Wearing socks with sandals."},{"id":"r20","text":"Autocorrect turning 'dinner' into a federal incident."},{"id":"r21","text":"Unchecked hubris."},{"id":"r22","text":"A rogue Roomba seeking freedom."},{"id":"r23","text":"Accidentally liking a photo from 84 weeks ago."},{"id":"r24","text":"A high-stakes game of musical chairs."},{"id":"r25","text":"Grandpa's questionable life advice."},{"id":"r26","text":"Trying to fold a fitted sheet."},{"id":"r27","text":"A glitter bomb disguised as tax documents."},{"id":"r28","text":"Aggressive eye contact on the subway."},{"id":"r29","text":"Cold pizza for breakfast."},{"id":"r30","text":"A surprisingly agile penguin."},{"id":"r31","text":"Sending a risky text and immediately turning off the phone."},{"id":"r32","text":"An emotional breakdown in the cereal aisle."},{"id":"r33","text":"Uncooked ramen noodles eaten like a biscuit."},{"id":"r34","text":"A PowerPoint transition with explosive sound effects."},{"id":"r35","text":"A capybara living its best life."},{"id":"r36","text":"The crushing weight of student loans."},{"id":"r37","text":"A mime trying to explain quantum mechanics."},{"id":"r38","text":"Pretending to understand wine notes."},{"id":"r39","text":"Screaming into a pillow for four minutes straight."},{"id":"r40","text":"A very loud chewing noise."},{"id":"r41","text":"A pigeon with executive authority."},{"id":"r42","text":"Leaving the party without saying goodbye to anyone."},{"id":"r43","text":"A half-eaten burrito found in a coat pocket."},{"id":"r44","text":"Two squirrels fighting over half an avocado."},{"id":"r45","text":"An excessively confident toddler."},{"id":"r46","text":"A dramatic slow-motion gasp."},{"id":"r47","text":"Reading the terms and conditions word for word."},{"id":"r48","text":"A medieval knight with a smartphone."},{"id":"r49","text":"Faking a phone call to escape a conversation."},{"id":"r50","text":"Stepping on a lone Lego brick in the dark."},{"id":"r51","text":"A dolphin that knows too much."},{"id":"r52","text":"An overdue library book from 1998."},{"id":"r53","text":"A suspiciously cheerful barista at 5:00 AM."},{"id":"r54","text":"A choir composed entirely of Golden Retrievers."},{"id":"r55","text":"A badly drawn mustache with a sharpie."},{"id":"r56","text":"An intensely competitive game of Scrabble."},{"id":"r57","text":"Finding twenty dollars in an old pair of jeans."},{"id":"r58","text":"The sheer audacity of geese."},{"id":"r59","text":"Forgetting someone's name three seconds after being introduced."},{"id":"r60","text":"A chaotic karaoke rendition of Bohemian Rhapsody."},{"id":"r61","text":"Whispering sweet nothings to a waffle iron."},{"id":"r62","text":"A raccoon stealing a shiny wrench."},{"id":"r63","text":"A marathon runner who forgot to train."},{"id":"r64","text":"A very polite duel at high noon."},{"id":"r65","text":"Eating ice cream directly from the tub at 2 AM."},{"id":"r66","text":"A malfunctioning GPS leading straight into a lake."},{"id":"r67","text":"An entire drawer dedicated to sauce packets."},{"id":"r68","text":"The awkward elevator silence."},{"id":"r69","text":"An aggressively friendly cat."},{"id":"r70","text":"Winning an argument in your head five hours later."},{"id":"r71","text":"A suspicious stain on the rental car seat."},{"id":"r72","text":"A dramatic soap opera slap."},{"id":"r73","text":"A hamster with dreams of world domination."},{"id":"r74","text":"Trying to plug in a USB cable the right way on the first try."},{"id":"r75","text":"A magical potion that tastes like cough syrup."},{"id":"r76","text":"A spreadsheet with 400 columns and no labels."},{"id":"r77","text":"A duck wearing a tiny fedora."},{"id":"r78","text":"Staring into the fridge hoping new snacks appeared."},{"id":"r79","text":"A sneeze that vanishes right before it happens."},{"id":"r80","text":"Accidentally waving back at someone waving to the person behind you."}
+  {
+    "id": "r1",
+    "text": "An aggressively confident man with zero emotional availability."
+  },
+  {
+    "id": "r2",
+    "text": "Sending 'I miss you' to the wrong person at 2:47 AM."
+  },
+  {
+    "id": "r3",
+    "text": "A situationship with the stability of a collapsing bridge."
+  },
+  {
+    "id": "r4",
+    "text": "Making eye contact and immediately forgetting how humans work."
+  },
+  {
+    "id": "r5",
+    "text": "A gym membership and absolutely no personality."
+  },
+  {
+    "id": "r6",
+    "text": "An apology written entirely in red flags."
+  },
+  {
+    "id": "r7",
+    "text": "A suspicious amount of confidence and absolutely no plan."
+  },
+  {
+    "id": "r8",
+    "text": "Flirting so badly it qualifies as a workplace incident."
+  },
+  {
+    "id": "r9",
+    "text": "The kind of chemistry that requires a follow-up appointment with a therapist."
+  },
+  {
+    "id": "r10",
+    "text": "A 14-paragraph text that could have been a simple goodbye."
+  },
+  {
+    "id": "r11",
+    "text": "My ex's Spotify playlist titled 'Songs That Remind Me Of My Regrets.'"
+  },
+  {
+    "id": "r12",
+    "text": "Accidentally calling my partner 'bro' during an intimate moment."
+  },
+  {
+    "id": "r13",
+    "text": "A man who describes himself as 'an empath' while ignoring your boundaries."
+  },
+  {
+    "id": "r14",
+    "text": "Crying in the shower and calling it 'self-care.'"
+  },
+  {
+    "id": "r15",
+    "text": "An unreasonably attractive person with the personality of wet cardboard."
+  },
+  {
+    "id": "r16",
+    "text": "The screenshot I forgot to crop before sending."
+  },
+  {
+    "id": "r17",
+    "text": "Ghosting someone and then showing up at their yoga class."
+  },
+  {
+    "id": "r18",
+    "text": "A 45-minute voice note that could have been a thumbs-up emoji."
+  },
+  {
+    "id": "r19",
+    "text": "Watching Netflix alone in my underwear and calling it 'a date night.'"
+  },
+  {
+    "id": "r20",
+    "text": "Emotional unavailability disguised as 'just being chill.'"
+  },
+  {
+    "id": "r21",
+    "text": "Finding my roommate's 'performance enhancement supplements' in the fridge."
+  },
+  {
+    "id": "r22",
+    "text": "A booty call with the formality of a LinkedIn connection request."
+  },
+  {
+    "id": "r23",
+    "text": "The audacity of my landlord combined with the delusion of a horoscope."
+  },
+  {
+    "id": "r24",
+    "text": "Replying 'K' to a heartfelt confession."
+  },
+  {
+    "id": "r25",
+    "text": "Uninstalling Tinder, reinstalling it 20 minutes later."
+  },
+  {
+    "id": "r26",
+    "text": "A frighteningly competitive game of strip poker."
+  },
+  {
+    "id": "r27",
+    "text": "The overwhelming urge to text my ex after two glasses of wine."
+  },
+  {
+    "id": "r28",
+    "text": "Someone who says 'I don't do drama' while being the main character in every drama."
+  },
+  {
+    "id": "r29",
+    "text": "The toxic fumes of a dying situationship."
+  },
+  {
+    "id": "r30",
+    "text": "A suspiciously detailed knowledge of true crime podcasts."
+  },
+  {
+    "id": "r31",
+    "text": "My Uber rating dropping after that incident."
+  },
+  {
+    "id": "r32",
+    "text": "An 'accidental' double-tap on a crush's photo from 2019."
+  },
+  {
+    "id": "r33",
+    "text": "The raw unbridled panic of 'We need to talk.'"
+  },
+  {
+    "id": "r34",
+    "text": "An HR complaint filed entirely in passive-aggressive emojis."
+  },
+  {
+    "id": "r35",
+    "text": "Aggressive spooning that qualifies as a chokehold."
+  },
+  {
+    "id": "r36",
+    "text": "A vibrator that's more reliable than any man I've dated."
+  },
+  {
+    "id": "r37",
+    "text": "The sexual tension between me and my deadline."
+  },
+  {
+    "id": "r38",
+    "text": "Losing my virginity and immediately asking for a performance review."
+  },
+  {
+    "id": "r39",
+    "text": "A therapy appointment booked immediately after a family dinner."
+  },
+  {
+    "id": "r40",
+    "text": "Sliding into DMs with the grace of a drunk giraffe on ice."
+  },
+  {
+    "id": "r41",
+    "text": "Daddy issues with a side of commitment phobia."
+  },
+  {
+    "id": "r42",
+    "text": "The walk of shame, but in yesterday's formal wear."
+  },
+  {
+    "id": "r43",
+    "text": "A breakup text sent via Google Translate."
+  },
+  {
+    "id": "r44",
+    "text": "Drunk-ordering a body pillow of an anime character."
+  },
+  {
+    "id": "r45",
+    "text": "Being emotionally destroyed by a 4-word text."
+  },
+  {
+    "id": "r46",
+    "text": "The moment my parents discovered what 'Netflix and chill' actually means."
+  },
+  {
+    "id": "r47",
+    "text": "An ex who keeps showing up in my recommended friends like a horror movie villain."
+  },
+  {
+    "id": "r48",
+    "text": "The unspoken agreement that nobody mentions last night ever again."
+  },
+  {
+    "id": "r49",
+    "text": "Sexting with the enthusiasm of a LinkedIn recruiter."
+  },
+  {
+    "id": "r50",
+    "text": "A panic attack disguised as a personality."
+  },
+  {
+    "id": "r51",
+    "text": "The kind of hug that whispers 'I'm settling for you.'"
+  },
+  {
+    "id": "r52",
+    "text": "An orgasm so fake it deserves a Filmfare award."
+  },
+  {
+    "id": "r53",
+    "text": "Asking my therapist if we can just sit in silence today."
+  },
+  {
+    "id": "r54",
+    "text": "My browser history during a depressive episode."
+  },
+  {
+    "id": "r55",
+    "text": "A 'networking event' that's actually just a hook-up with extra steps."
+  },
+  {
+    "id": "r56",
+    "text": "The ex who unfollowed me but still watches every single story."
+  },
+  {
+    "id": "r57",
+    "text": "Wearing sunglasses indoors to hide the evidence of last night."
+  },
+  {
+    "id": "r58",
+    "text": "Someone who peaked in 10th standard and never recovered."
+  },
+  {
+    "id": "r59",
+    "text": "The most emotionally manipulative use of 'lol' ever recorded."
+  },
+  {
+    "id": "r60",
+    "text": "Getting relationship advice from someone who's been single for seven years."
+  },
+  {
+    "id": "r61",
+    "text": "A rebound relationship that lasted exactly one Uber ride home."
+  },
+  {
+    "id": "r62",
+    "text": "'Beta, padhai karo' while I'm having a full existential crisis."
+  },
+  {
+    "id": "r63",
+    "text": "Aggressively flirting with the bartender for free drinks."
+  },
+  {
+    "id": "r64",
+    "text": "A dating profile that says 'not here for hookups' on literally every app."
+  },
+  {
+    "id": "r65",
+    "text": "The guy at the gym who grunts like he's filming something else entirely."
+  },
+  {
+    "id": "r66",
+    "text": "Showing up to a first date already drunk."
+  },
+  {
+    "id": "r67",
+    "text": "A passive-aggressive reply-all email that started a civil war in the office."
+  },
+  {
+    "id": "r68",
+    "text": "The desperate energy of a 'you up?' text at 11:58 PM."
+  },
+  {
+    "id": "r69",
+    "text": "Explaining to my doctor how the injury happened without the actual context."
+  },
+  {
+    "id": "r70",
+    "text": "An 'influencer' with 47 followers and a ring light."
+  },
+  {
+    "id": "r71",
+    "text": "The sheer violence of an Indian mom's chappal."
+  },
+  {
+    "id": "r72",
+    "text": "Being so down bad I liked their LinkedIn post."
+  },
+  {
+    "id": "r73",
+    "text": "A pregnancy scare and a Wikipedia article."
+  },
+  {
+    "id": "r74",
+    "text": "Naming my vibrator after my ex as a power move."
+  },
+  {
+    "id": "r75",
+    "text": "The emotional devastation of seeing my ex happy."
+  },
+  {
+    "id": "r76",
+    "text": "An Aadhar card found on the floor of a nightclub."
+  },
+  {
+    "id": "r77",
+    "text": "Pretending my screen time doesn't say 11 hours."
+  },
+  {
+    "id": "r78",
+    "text": "The confidence of a man who hasn't been humbled yet."
+  },
+  {
+    "id": "r79",
+    "text": "A 'just friends' situation where nobody believes it, including us."
+  },
+  {
+    "id": "r80",
+    "text": "Getting caught talking to myself in the work bathroom."
+  },
+  {
+    "id": "r81",
+    "text": "A personality entirely based on astrology and trauma."
+  },
+  {
+    "id": "r82",
+    "text": "My mother's disappointment, but in italics."
+  },
+  {
+    "id": "r83",
+    "text": "Sending nudes and immediately regretting the lighting."
+  },
+  {
+    "id": "r84",
+    "text": "An engagement ring from a vending machine."
+  },
+  {
+    "id": "r85",
+    "text": "Being horny and lonely simultaneously — the duality of man."
+  },
+  {
+    "id": "r86",
+    "text": "A gym selfie captioned 'Rise and grind' at 11:45 PM."
+  },
+  {
+    "id": "r87",
+    "text": "The dark side of Shaadi.com."
+  },
+  {
+    "id": "r88",
+    "text": "Accidentally swiping right on my cousin."
+  },
+  {
+    "id": "r89",
+    "text": "A threesome that nobody actually wanted but everyone agreed to."
+  },
+  {
+    "id": "r90",
+    "text": "The kind of self-sabotage that would impress even my therapist."
+  },
+  {
+    "id": "r91",
+    "text": "A love triangle where all three people are emotionally unavailable."
+  },
+  {
+    "id": "r92",
+    "text": "Stalking my crush's tagged photos from 2017 while eating cold pizza."
+  },
+  {
+    "id": "r93",
+    "text": "The weaponized silence of a woman who has made up her mind."
+  },
+  {
+    "id": "r94",
+    "text": "A noise complaint from doing absolutely nothing inappropriate."
+  },
+  {
+    "id": "r95",
+    "text": "My OnlyFans earnings (₹43 this month)."
+  },
+  {
+    "id": "r96",
+    "text": "A well-timed 'mujhe kya, main toh ____ hoon' to dodge accountability."
+  },
+  {
+    "id": "r97",
+    "text": "The HR lady pretending she hasn't heard worse."
+  },
+  {
+    "id": "r98",
+    "text": "Blocking, unblocking, and then watching their story from a finsta."
+  },
+  {
+    "id": "r99",
+    "text": "The awkward three-second pause before 'I love you too.'"
+  },
+  {
+    "id": "r100",
+    "text": "A motivational quote over a thirst trap."
+  },
+  {
+    "id": "r101",
+    "text": "Using my trauma as a conversation starter at parties."
+  },
+  {
+    "id": "r102",
+    "text": "A group chat named 'The Disappointments.'"
+  },
+  {
+    "id": "r103",
+    "text": "My therapist's therapist."
+  },
+  {
+    "id": "r104",
+    "text": "An elaborate excuse that involves a hospital, a goat, and two coconuts."
+  },
+  {
+    "id": "r105",
+    "text": "A person who says 'I'm an open book' but has 14 locked folders."
+  },
+  {
+    "id": "r106",
+    "text": "The toxic masculinity of a protein shake Instagram page."
+  },
+  {
+    "id": "r107",
+    "text": "Deleting 47 selfies to post the one that looks 'effortless.'"
+  },
+  {
+    "id": "r108",
+    "text": "A hookup so disappointing it became a bonding story for future friend groups."
+  },
+  {
+    "id": "r109",
+    "text": "My credit card statement after an emotional breakdown."
+  },
+  {
+    "id": "r110",
+    "text": "The physical embodiment of 'it's complicated.'"
+  },
+  {
+    "id": "r111",
+    "text": "A man who puts 'entrepreneur' in his bio but sells protein powder."
+  },
+  {
+    "id": "r112",
+    "text": "Matching underwear worn specifically for an appointment that got cancelled."
+  },
+  {
+    "id": "r113",
+    "text": "The disappointment of finding out they're a Gemini."
+  },
+  {
+    "id": "r114",
+    "text": "A sobbing voicemail left at 4 AM after a plate of biryani."
+  },
+  {
+    "id": "r115",
+    "text": "The sheer chaos of an Indian family WhatsApp group."
+  },
+  {
+    "id": "r116",
+    "text": "Being someone's '3 AM mistake' and honestly being okay with it."
+  },
+  {
+    "id": "r117",
+    "text": "A passive-aggressive 'Seen' at 2:14 AM."
+  },
+  {
+    "id": "r118",
+    "text": "The audacity of my metabolism after 25."
+  },
+  {
+    "id": "r119",
+    "text": "Downloading a meditation app during a breakdown and rage-quitting it."
+  },
+  {
+    "id": "r120",
+    "text": "A love language that's mostly sarcasm and avoidance."
+  },
+  {
+    "id": "r121",
+    "text": "My entire personality being a coping mechanism."
+  },
+  {
+    "id": "r122",
+    "text": "'Sharma ji ka beta' and his perfect life that definitely isn't real."
+  },
+  {
+    "id": "r123",
+    "text": "A confession booth that runs out of storage."
+  },
+  {
+    "id": "r124",
+    "text": "The fact that my ex moved on while I'm still workshopping my comeback text."
+  },
+  {
+    "id": "r125",
+    "text": "A drunk 'I love you' that was 100% genuine but I'll deny forever."
+  },
+  {
+    "id": "r126",
+    "text": "Eating an entire jar of Nutella and calling it 'emotional eating research.'"
+  },
+  {
+    "id": "r127",
+    "text": "A person who treats first dates like job interviews and still gets ghosted."
+  },
+  {
+    "id": "r128",
+    "text": "The audacity to reply 'lol' to a paragraph about my feelings."
+  },
+  {
+    "id": "r129",
+    "text": "A concerning amount of knowledge about serial killers."
+  },
+  {
+    "id": "r130",
+    "text": "Getting emotionally attached to someone after one eye contact on the metro."
+  },
+  {
+    "id": "r131",
+    "text": "The 'sorry, wrong person' text that was absolutely not wrong."
+  },
+  {
+    "id": "r132",
+    "text": "A toxic trait so perfectly curated it deserves a museum exhibit."
+  },
+  {
+    "id": "r133",
+    "text": "The primal scream I release when the WiFi drops during a crucial moment."
+  },
+  {
+    "id": "r134",
+    "text": "An ex whose entire post-breakup glow-up is powered by spite."
+  },
+  {
+    "id": "r135",
+    "text": "A grown adult who still sleeps with the light on because of 'vibes.'"
+  },
+  {
+    "id": "r136",
+    "text": "The audible gasp when someone's private story gets screenshotted."
+  },
+  {
+    "id": "r137",
+    "text": "A man who has watched Fight Club exactly the wrong number of times."
+  },
+  {
+    "id": "r138",
+    "text": "The existential dread of a 'typing...' bubble that disappears."
+  },
+  {
+    "id": "r139",
+    "text": "Being friend-zoned by someone I friend-zoned first."
+  },
+  {
+    "id": "r140",
+    "text": "The profound sadness of an empty biryani container."
+  },
+  {
+    "id": "r141",
+    "text": "Kundli matching that came back with 'ERROR: INCOMPATIBLE ON ALL DIMENSIONS.'"
+  },
+  {
+    "id": "r142",
+    "text": "A dating profile that lists 'fluent in sarcasm' as a skill."
+  },
+  {
+    "id": "r143",
+    "text": "Showing up to my ex's wedding just to see them cry first."
+  },
+  {
+    "id": "r144",
+    "text": "The emotional complexity of a three-day WhatsApp argument in blue ticks."
+  },
+  {
+    "id": "r145",
+    "text": "A booty call that evolves into an existential conversation about mortality."
+  },
+  {
+    "id": "r146",
+    "text": "My search history at 3 AM, which would concern several federal agencies."
+  },
+  {
+    "id": "r147",
+    "text": "The deeply unsettling eye contact between me and the HR manager."
+  },
+  {
+    "id": "r148",
+    "text": "A man who says 'I'm not like other guys' and then proves he's exactly like them."
+  },
+  {
+    "id": "r149",
+    "text": "Making a spreadsheet to track romantic prospects like a psychopath."
+  },
+  {
+    "id": "r150",
+    "text": "The gap between who I am on LinkedIn and who I am at 2 AM."
+  },
+  {
+    "id": "r151",
+    "text": "Chai with the emotional weight of a breakup conversation."
+  },
+  {
+    "id": "r152",
+    "text": "The silent battle for the AC remote in a desi household."
+  },
+  {
+    "id": "r153",
+    "text": "An 'Are you still watching?' notification that felt deeply personal."
+  },
+  {
+    "id": "r154",
+    "text": "Crying during sex and pretending it's because 'it's just so beautiful.'"
+  },
+  {
+    "id": "r155",
+    "text": "A marriage proposal delivered entirely through memes."
+  },
+  {
+    "id": "r156",
+    "text": "The kind of eye bags that suggest either partying or depression."
+  },
+  {
+    "id": "r157",
+    "text": "A farewell email so passive-aggressive it crashed the server."
+  },
+  {
+    "id": "r158",
+    "text": "The gym bro who turns every conversation into a leg day metaphor."
+  },
+  {
+    "id": "r159",
+    "text": "An orgasm chart tracked in an Excel spreadsheet for self-improvement."
+  },
+  {
+    "id": "r160",
+    "text": "That one friend who always says 'no drama' and then becomes the drama."
+  },
+  {
+    "id": "r161",
+    "text": "The physical sensation of my soul leaving my body during a cringe memory."
+  },
+  {
+    "id": "r162",
+    "text": "My Amazon order history during Mercury retrograde."
+  },
+  {
+    "id": "r163",
+    "text": "Being unfollowed by my own cousin."
+  },
+  {
+    "id": "r164",
+    "text": "A breakup that was announced via Instagram story before being told in person."
+  },
+  {
+    "id": "r165",
+    "text": "The emotional damage of one raised eyebrow from an Indian mother."
+  },
+  {
+    "id": "r166",
+    "text": "Treating my therapist like a podcast host I can vent to for ₹3,000 an hour."
+  },
+  {
+    "id": "r167",
+    "text": "A lap dance that escalated into a philosophical debate about free will."
+  },
+  {
+    "id": "r168",
+    "text": "The one friend who always brings up that one incident from 2016."
+  },
+  {
+    "id": "r169",
+    "text": "A suspiciously specific 'asking for a friend' question."
+  },
+  {
+    "id": "r170",
+    "text": "Getting unsolicited life advice from a 23-year-old crypto bro."
+  },
+  {
+    "id": "r171",
+    "text": "A 'Netflix and cry' session that hit harder than expected."
+  },
+  {
+    "id": "r172",
+    "text": "The raw energy of screaming into a pillow after reading a text."
+  },
+  {
+    "id": "r173",
+    "text": "An alarming number of tabs open, each one a different emotional crisis."
+  },
+  {
+    "id": "r174",
+    "text": "Someone who refers to their dating life as 'my situationship portfolio.'"
+  },
+  {
+    "id": "r175",
+    "text": "A noise ordinance violation caused entirely by my emotional breakdown."
+  },
+  {
+    "id": "r176",
+    "text": "The deeply haunted look of someone who just got a 'Can we talk?' text."
+  },
+  {
+    "id": "r177",
+    "text": "Putting on pants as the ultimate act of optimism."
+  },
+  {
+    "id": "r178",
+    "text": "A LinkedIn recommendation that reads like a love letter."
+  },
+  {
+    "id": "r179",
+    "text": "The morning-after walk of shame in a kurta from last night's function."
+  },
+  {
+    "id": "r180",
+    "text": "Constructing a 5000-word mental argument with someone while showering."
+  },
+  {
+    "id": "r181",
+    "text": "The specific heartbreak of 'let's just be friends.'"
+  },
+  {
+    "id": "r182",
+    "text": "My DMs, which look like a crime scene investigation."
+  },
+  {
+    "id": "r183",
+    "text": "A man who un-ironically quotes The Joker during arguments."
+  },
+  {
+    "id": "r184",
+    "text": "Losing a friend because I was too honest during Truth or Dare."
+  },
+  {
+    "id": "r185",
+    "text": "The emotional bankruptcy of paying rent in a metro city."
+  },
+  {
+    "id": "r186",
+    "text": "A candlelit dinner that ended with a fire department visit."
+  },
+  {
+    "id": "r187",
+    "text": "Being emotionally catfished by my own expectations."
+  },
+  {
+    "id": "r188",
+    "text": "A gym 'personal record' that's actually just a cry for help."
+  },
+  {
+    "id": "r189",
+    "text": "The unhinged energy of my 'healthy coping mechanisms' at 1 AM."
+  },
+  {
+    "id": "r190",
+    "text": "A screenshot folder titled 'Evidence' for future confrontations."
+  },
+  {
+    "id": "r191",
+    "text": "My mom finding my 'private' Twitter account and saying nothing for three days."
+  },
+  {
+    "id": "r192",
+    "text": "The desperation of refreshing someone's last seen on WhatsApp."
+  },
+  {
+    "id": "r193",
+    "text": "A man whose entire personality is his height."
+  },
+  {
+    "id": "r194",
+    "text": "Being so petty I changed the Netflix password mid-breakup."
+  },
+  {
+    "id": "r195",
+    "text": "A breakup playlist that goes harder than the actual relationship."
+  },
+  {
+    "id": "r196",
+    "text": "The sheer violence of someone saying 'Hmmm, interesting' to your feelings."
+  },
+  {
+    "id": "r197",
+    "text": "My Swiggy order at 11 PM that screams 'I've given up on life.'"
+  },
+  {
+    "id": "r198",
+    "text": "A joint Instagram account that nobody asked for."
+  },
+  {
+    "id": "r199",
+    "text": "The weaponised 'thumbs up' react on a heartfelt message."
+  },
+  {
+    "id": "r200",
+    "text": "An intervention that turned into a roast session."
+  },
+  {
+    "id": "r201",
+    "text": "The audacity to show up with a bottle of Old Monk and no emotional intelligence."
+  },
+  {
+    "id": "r202",
+    "text": "A Tinder match whose first message was just a fire emoji."
+  },
+  {
+    "id": "r203",
+    "text": "The gravitational pull between me and bad decisions after midnight."
+  },
+  {
+    "id": "r204",
+    "text": "A comfort show rewatch disguised as 'taking a mental health day.'"
+  },
+  {
+    "id": "r205",
+    "text": "The sheer betrayal of autocorrect during a carefully crafted flirty text."
+  },
+  {
+    "id": "r206",
+    "text": "A person who exclusively communicates through passive-aggressive Instagram stories."
+  },
+  {
+    "id": "r207",
+    "text": "My last brain cell trying to function at a party after 3 drinks."
+  },
+  {
+    "id": "r208",
+    "text": "The ancient art of pretending to read the menu when your ex walks into the restaurant."
+  },
+  {
+    "id": "r209",
+    "text": "A WhatsApp status that's obviously about me but I can't prove it."
+  },
+  {
+    "id": "r210",
+    "text": "Someone's dad finding their Bumble profile and swiping right as a power move."
+  },
+  {
+    "id": "r211",
+    "text": "The mortifying ordeal of being known."
+  },
+  {
+    "id": "r212",
+    "text": "A 'good vibes only' person who radiates nothing but chaos."
+  },
+  {
+    "id": "r213",
+    "text": "The unspoken pact to never discuss what happened at the office party."
+  },
+  {
+    "id": "r214",
+    "text": "A date who brought a 'pros and cons' list about me. Cons won."
+  },
+  {
+    "id": "r215",
+    "text": "An emotional support biryani."
+  },
+  {
+    "id": "r216",
+    "text": "The unique devastation of someone saying 'you're like a brother to me.'"
+  },
+  {
+    "id": "r217",
+    "text": "A condom that's been in my wallet since 2022, still holding hope."
+  },
+  {
+    "id": "r218",
+    "text": "Getting 'we should hang out sometime' and both knowing it will never happen."
+  },
+  {
+    "id": "r219",
+    "text": "A prayer to literally any god before opening the pregnancy test."
+  },
+  {
+    "id": "r220",
+    "text": "The nuclear option of forwarding a screenshot to the group chat."
+  },
+  {
+    "id": "r221",
+    "text": "Being so down bad I agreed to a 6 AM hike as a date."
+  },
+  {
+    "id": "r222",
+    "text": "A 'friendly reminder' email that's anything but friendly."
+  },
+  {
+    "id": "r223",
+    "text": "The existential horror of hearing my own voice in a recording."
+  },
+  {
+    "id": "r224",
+    "text": "Drunk texting my boss instead of my bestie and not knowing until morning."
+  },
+  {
+    "id": "r225",
+    "text": "A grown man who still calls his mother before making any decision."
+  },
+  {
+    "id": "r226",
+    "text": "The competitive energy of comparing screen time reports with friends."
+  },
+  {
+    "id": "r227",
+    "text": "An intimacy level that peaked at sharing a Netflix password."
+  },
+  {
+    "id": "r228",
+    "text": "A 'I'm fine' text that violates the Geneva Convention."
+  },
+  {
+    "id": "r229",
+    "text": "The resigned energy of opening Zomato for the fourth time today."
+  },
+  {
+    "id": "r230",
+    "text": "A man whose love language is forwarding reels with 'this is us' captions."
+  },
+  {
+    "id": "r231",
+    "text": "Making accidental eye contact through a bathroom stall gap."
+  },
+  {
+    "id": "r232",
+    "text": "The unique humiliation of your card getting declined on a date you insisted on paying for."
+  },
+  {
+    "id": "r233",
+    "text": "Someone who still uses 'XD' in 2026."
+  },
+  {
+    "id": "r234",
+    "text": "A prayer circle for my liver after that weekend."
+  },
+  {
+    "id": "r235",
+    "text": "An unmatched confidence only found in men who haven't been told 'no.'"
+  },
+  {
+    "id": "r236",
+    "text": "The absolutely feral energy of 'I'm not jealous, I just want to know.'"
+  },
+  {
+    "id": "r237",
+    "text": "A startup founder whose 'disruption' is just an app nobody asked for."
+  },
+  {
+    "id": "r238",
+    "text": "The dangerous silence after 'So, I checked your phone.'"
+  },
+  {
+    "id": "r239",
+    "text": "Mummy papa ka 'humne tere liye bohot kiya hai' emotional nuke."
+  },
+  {
+    "id": "r240",
+    "text": "Losing my appetite, my sleep, and my dignity to a 6/10 who texts back sporadically."
+  },
+  {
+    "id": "r241",
+    "text": "A profile picture that hasn't been updated since Obama's first term."
+  },
+  {
+    "id": "r242",
+    "text": "The ick of hearing someone chew loudly during a romantic dinner."
+  },
+  {
+    "id": "r243",
+    "text": "A very detailed dream about a coworker that I cannot make eye contact with anymore."
+  },
+  {
+    "id": "r244",
+    "text": "Rishta aunty's PowerPoint presentation of 'suitable boys.'"
+  },
+  {
+    "id": "r245",
+    "text": "The specific panic of accidentally video-calling someone."
+  },
+  {
+    "id": "r246",
+    "text": "An autopsy of my last relationship, presented as a TED Talk."
+  },
+  {
+    "id": "r247",
+    "text": "A restraining order written in Comic Sans."
+  },
+  {
+    "id": "r248",
+    "text": "The IIT tag followed by absolutely zero social skills."
+  },
+  {
+    "id": "r249",
+    "text": "An emotional support animal that also needs therapy."
+  },
+  {
+    "id": "r250",
+    "text": "A first date at Sarojini Nagar and three arguments about bargaining technique."
+  },
+  {
+    "id": "r251",
+    "text": "The precise moment when 'just vibing' turned into 'I need a lawyer.'"
+  },
+  {
+    "id": "r252",
+    "text": "A person who measures their self-worth in Instagram likes."
+  },
+  {
+    "id": "r253",
+    "text": "The deeply uncomfortable energy of sitting between a couple that's fighting."
+  },
+  {
+    "id": "r254",
+    "text": "Nani catching you watching something 'English' on your laptop at 1 AM."
+  },
+  {
+    "id": "r255",
+    "text": "A hot take that ended three friendships and started one existential crisis."
+  },
+  {
+    "id": "r256",
+    "text": "Tears, whiskey, and a concerning number of voice notes to a contact named 'DO NOT TEXT.'"
+  },
+  {
+    "id": "r257",
+    "text": "A dating app conversation that lasted three months and produced zero dates."
+  },
+  {
+    "id": "r258",
+    "text": "Being so emotionally unavailable I ghosted my own therapist."
+  },
+  {
+    "id": "r259",
+    "text": "The quiet devastation of a 'Happy Birthday' text with no exclamation mark."
+  },
+  {
+    "id": "r260",
+    "text": "A WhatsApp group named 'Plan Confirmed' that has never confirmed a single plan."
+  },
+  {
+    "id": "r261",
+    "text": "The raw sexual tension of a staring contest at a traffic signal."
+  },
+  {
+    "id": "r262",
+    "text": "Answering 'fine' to 'how are you' while everything burns internally."
+  },
+  {
+    "id": "r263",
+    "text": "A PowerPoint about why we should get back together, complete with pie charts."
+  },
+  {
+    "id": "r264",
+    "text": "Making direct eye contact while eating a banana in the office cafeteria."
+  },
+  {
+    "id": "r265",
+    "text": "The absolute betrayal of my best friend dating my ex and posting about it."
+  },
+  {
+    "id": "r266",
+    "text": "A noise so loud the neighbors thought we were either fighting or... not fighting."
+  },
+  {
+    "id": "r267",
+    "text": "The precise moment when 'chill hangout' energy became 'define the relationship' energy."
+  },
+  {
+    "id": "r268",
+    "text": "A 'seen zone' so powerful it should be classified as a weapon."
+  },
+  {
+    "id": "r269",
+    "text": "Someone who pronounces 'quinoa' with absolute confidence and total incorrectness."
+  },
+  {
+    "id": "r270",
+    "text": "Running into my one-night stand at a family function because India is a small country."
+  },
+  {
+    "id": "r271",
+    "text": "The mortifying moment my family found my alt account."
+  },
+  {
+    "id": "r272",
+    "text": "A Tinder bio that says '6'2 because apparently that matters.'"
+  },
+  {
+    "id": "r273",
+    "text": "The chaotic neutral energy of replying 'noted' to an emotional outburst."
+  },
+  {
+    "id": "r274",
+    "text": "Someone who brings their guitar to every party uninvited."
+  },
+  {
+    "id": "r275",
+    "text": "The combined horror of a missed period and a 2% phone battery."
+  },
+  {
+    "id": "r276",
+    "text": "A fitness influencer who definitely skips brain day."
+  },
+  {
+    "id": "r277",
+    "text": "Matching pajamas with my emotional baggage."
+  },
+  {
+    "id": "r278",
+    "text": "A Bollywood-level flashback montage during an anxiety attack."
+  },
+  {
+    "id": "r279",
+    "text": "The single tear rolling down my cheek as I accept the friend request."
+  },
+  {
+    "id": "r280",
+    "text": "My body count, which is frankly none of society's business but somehow everyone's topic at dinner."
+  },
+  {
+    "id": "r281",
+    "text": "The specific violence of being asked 'so what do you do?' at an Indian gathering."
+  },
+  {
+    "id": "r282",
+    "text": "An apology that starts with 'I'm sorry you feel that way.'"
+  },
+  {
+    "id": "r283",
+    "text": "A man who calls every woman 'bro' and wonders why he's single."
+  },
+  {
+    "id": "r284",
+    "text": "The unshakeable faith of swiping right at 3 AM."
+  },
+  {
+    "id": "r285",
+    "text": "A 'no-strings-attached' arrangement with more strings than a sitar."
+  },
+  {
+    "id": "r286",
+    "text": "The desperate optimism of buying condoms 'just in case.'"
+  },
+  {
+    "id": "r287",
+    "text": "A chai date that unravelled family secrets spanning three generations."
+  },
+  {
+    "id": "r288",
+    "text": "The psychological warfare of leaving someone on 'delivered.'"
+  },
+  {
+    "id": "r289",
+    "text": "My mom using my full name, which means I've already lost."
+  },
+  {
+    "id": "r290",
+    "text": "A perfectly timed screenshot that could bring down a government."
+  },
+  {
+    "id": "r291",
+    "text": "The emotional whiplash of 'I love you' followed by 'as a friend.'"
+  },
+  {
+    "id": "r292",
+    "text": "A Zoom call where someone forgot their camera was on."
+  },
+  {
+    "id": "r293",
+    "text": "The primal chaos of a family WhatsApp group during election season."
+  },
+  {
+    "id": "r294",
+    "text": "Making out in an auto-rickshaw and pretending the driver doesn't exist."
+  },
+  {
+    "id": "r295",
+    "text": "A morning-after text that just says 'That was... something.'"
+  },
+  {
+    "id": "r296",
+    "text": "The specific rage of watching someone put ketchup on biryani."
+  },
+  {
+    "id": "r297",
+    "text": "A personality built entirely around being a Scorpio."
+  },
+  {
+    "id": "r298",
+    "text": "The kind of drunk that requires three friends, a bucket, and a government-issued apology."
+  },
+  {
+    "id": "r299",
+    "text": "A LinkedIn post about 'hustle culture' from someone who wakes up at noon."
+  },
+  {
+    "id": "r300",
+    "text": "The raw, unfiltered chaos of an Indian train journey in general compartment."
+  },
+  {
+    "id": "r301",
+    "text": "A breakup so dramatic it had a three-act structure and intermission."
+  },
+  {
+    "id": "r302",
+    "text": "Finding a hair that belongs to absolutely nobody in your relationship."
+  },
+  {
+    "id": "r303",
+    "text": "A motivational gym reel posted from the McDonald's parking lot."
+  },
+  {
+    "id": "r304",
+    "text": "The crushing realization that my type is 'emotionally unavailable.'"
+  },
+  {
+    "id": "r305",
+    "text": "A 'casual' stalking session that accidentally revealed I was on their profile."
+  },
+  {
+    "id": "r306",
+    "text": "Wearing heels to impress someone and losing all functionality."
+  },
+  {
+    "id": "r307",
+    "text": "The collective gasp when the group chat screenshot got leaked."
+  },
+  {
+    "id": "r308",
+    "text": "My bank balance having the same energy as my love life: depressingly low."
+  },
+  {
+    "id": "r309",
+    "text": "A man who quotes 'Kabir Singh' un-ironically as relationship goals."
+  },
+  {
+    "id": "r310",
+    "text": "The soul-crushing click of a 'Your session has expired' during an important rant."
+  },
+  {
+    "id": "r311",
+    "text": "Explaining to immigration why my luggage contains 14 jars of pickle and nothing else."
+  },
+  {
+    "id": "r312",
+    "text": "The alarming speed at which I go from 'I'm independent' to 'please text me back.'"
+  },
+  {
+    "id": "r313",
+    "text": "An autorickshaw ride that felt like a near-death experience and a spiritual awakening."
+  },
+  {
+    "id": "r314",
+    "text": "Creating a fake Instagram account just to look at someone's profile."
+  },
+  {
+    "id": "r315",
+    "text": "The quiet horror of accidentally playing audio from an NSFW tab in a meeting."
+  },
+  {
+    "id": "r316",
+    "text": "A skincare routine that costs more than my rent and produces zero results."
+  },
+  {
+    "id": "r317",
+    "text": "The aggressive intimacy of sharing earphones on public transport."
+  },
+  {
+    "id": "r318",
+    "text": "Getting relationship advice from a Twitter thread with 2 likes."
+  },
+  {
+    "id": "r319",
+    "text": "A handshake so weak it questioned the entire relationship."
+  },
+  {
+    "id": "r320",
+    "text": "The ominous energy of dad calling you by your full government name."
+  },
+  {
+    "id": "r321",
+    "text": "An 'accidental' butt-dial during the most incriminating conversation of my life."
+  },
+  {
+    "id": "r322",
+    "text": "A person who claps when the plane lands and expects applause for it."
+  },
+  {
+    "id": "r323",
+    "text": "The unshakeable trauma of being picked last in gym class, still."
+  },
+  {
+    "id": "r324",
+    "text": "A couple that uses baby voice in public and expects society to accept it."
+  },
+  {
+    "id": "r325",
+    "text": "The cold sweat of your phone ringing on speaker in a silent room."
+  },
+  {
+    "id": "r326",
+    "text": "A middle part hairstyle that says 'I peaked in 2021 and I know it.'"
+  },
+  {
+    "id": "r327",
+    "text": "My 2 AM Google search: 'Am I a narcissist or just built different?'"
+  },
+  {
+    "id": "r328",
+    "text": "Binge-watching a 12-season show instead of processing my emotions."
+  },
+  {
+    "id": "r329",
+    "text": "A 'self-care Sunday' that's really just dissociation and Maggi."
+  },
+  {
+    "id": "r330",
+    "text": "Getting emotionally invested in a stranger's relationship drama on the metro."
+  },
+  {
+    "id": "r331",
+    "text": "The untraceable stench of a friendship that ended over a food bill split."
+  },
+  {
+    "id": "r332",
+    "text": "A wedding invite that's really just a flex disguised as an envelope."
+  },
+  {
+    "id": "r333",
+    "text": "Doomscrolling at a funeral and making eye contact with the priest."
+  },
+  {
+    "id": "r334",
+    "text": "The calculated savagery of an 'unrelated' Instagram post after a fight."
+  },
+  {
+    "id": "r335",
+    "text": "My DMs looking like a customer service complaint box."
+  },
+  {
+    "id": "r336",
+    "text": "Someone who un-ironically says 'I'm a nice guy' as a defence mechanism."
+  },
+  {
+    "id": "r337",
+    "text": "A performance review that reads like a breakup letter."
+  },
+  {
+    "id": "r338",
+    "text": "The silent treatment escalated to a cold war that lasted 11 months."
+  },
+  {
+    "id": "r339",
+    "text": "My Uber driver giving me unsolicited relationship advice that was uncomfortably accurate."
+  },
+  {
+    "id": "r340",
+    "text": "A saree malfunction at the worst possible moment."
+  },
+  {
+    "id": "r341",
+    "text": "The emotional equivalent of a 404 Error: Feelings Not Found."
+  },
+  {
+    "id": "r342",
+    "text": "A hickey strategically hidden under a dupatta."
+  },
+  {
+    "id": "r343",
+    "text": "Forgetting my lie and telling a different version to the same person."
+  },
+  {
+    "id": "r344",
+    "text": "An ex who started a podcast about their past relationships. Episode 1: me."
+  },
+  {
+    "id": "r345",
+    "text": "The absolute chaos of trying to split a bill among 12 Indians."
+  },
+  {
+    "id": "r346",
+    "text": "A 'company culture' that's just toxic positivity and free fruit."
+  },
+  {
+    "id": "r347",
+    "text": "My skin breaking out from the stress of trying not to text them back."
+  },
+  {
+    "id": "r348",
+    "text": "A gym crush who I've only ever communicated with through intense eye contact."
+  },
+  {
+    "id": "r349",
+    "text": "Sobbing into a plate of chole bhature at 2 AM and calling it self-love."
+  },
+  {
+    "id": "r350",
+    "text": "The specific betrayal of finding out my therapist has a therapist."
+  },
+  {
+    "id": "r351",
+    "text": "A hickey in summer that requires a turtleneck and an elaborate lie."
+  },
+  {
+    "id": "r352",
+    "text": "Running into my Tinder date at my family mandir on the same day."
+  },
+  {
+    "id": "r353",
+    "text": "The unmatched chaos of a group of desi aunties with unsupervised internet access."
+  },
+  {
+    "id": "r354",
+    "text": "My cat watching me ugly-cry while eating instant noodles at 1 AM."
+  },
+  {
+    "id": "r355",
+    "text": "A thirst trap so obvious even my grandma commented 'looking healthy, beta.'"
+  },
+  {
+    "id": "r356",
+    "text": "The deep existential sadness of assembling IKEA furniture alone."
+  },
+  {
+    "id": "r357",
+    "text": "A voice note so long it needs chapters and a table of contents."
+  },
+  {
+    "id": "r358",
+    "text": "The pure violence of someone replying 'ok' to a three-paragraph confession."
+  },
+  {
+    "id": "r359",
+    "text": "Getting so drunk that auto-correct becomes my designated driver."
+  },
+  {
+    "id": "r360",
+    "text": "A 'just checking in' text that's really surveillance in disguise."
+  },
+  {
+    "id": "r361",
+    "text": "The sheer unhinged energy of booking a solo trip after one bad date."
+  },
+  {
+    "id": "r362",
+    "text": "Someone who replies 'haha' to everything including 'my grandmother died.'"
+  },
+  {
+    "id": "r363",
+    "text": "A man who treats going to the gym as his entire personality arc."
+  },
+  {
+    "id": "r364",
+    "text": "My mom's 'we'll discuss this when you get home' — the original jump scare."
+  },
+  {
+    "id": "r365",
+    "text": "A friendship that only survives through memes and mutual hatred of a third person."
+  },
+  {
+    "id": "r366",
+    "text": "The kind of hug that makes airport security suspicious."
+  },
+  {
+    "id": "r367",
+    "text": "A morning alarm labelled 'you're worth it' that I snooze seven times."
+  },
+  {
+    "id": "r368",
+    "text": "The deeply cursed energy of liking your own Instagram posts."
+  },
+  {
+    "id": "r369",
+    "text": "An 'open bar' that lasted 20 minutes and caused 4 HR complaints."
+  },
+  {
+    "id": "r370",
+    "text": "Being so lonely I responded to a spam text out of genuine loneliness."
+  },
+  {
+    "id": "r371",
+    "text": "A 'before and after' transformation that's really just a filter and good lighting."
+  },
+  {
+    "id": "r372",
+    "text": "My attachment style: anxious-avoidant with a side of feral."
+  },
+  {
+    "id": "r373",
+    "text": "The specific type of crying that makes mascara look like a war paint."
+  },
+  {
+    "id": "r374",
+    "text": "A wedding where the couple fought during their own pheras."
+  },
+  {
+    "id": "r375",
+    "text": "Deleting the dating app, downloading it again in the parking lot."
+  },
+  {
+    "id": "r376",
+    "text": "Accidentally calling my teacher 'Mom' but in a corporate meeting."
+  },
+  {
+    "id": "r377",
+    "text": "A motivational poster in the office that says 'Teamwork' while everyone backstabs each other."
+  },
+  {
+    "id": "r378",
+    "text": "The energy of pretending to text someone while standing alone at a party."
+  },
+  {
+    "id": "r379",
+    "text": "A grown adult who says 'adulting' un-ironically."
+  },
+  {
+    "id": "r380",
+    "text": "The existential crisis triggered by LinkedIn's 'work anniversary' notification."
+  },
+  {
+    "id": "r381",
+    "text": "Someone who starts every story with 'So, I was on this app, right...'"
+  },
+  {
+    "id": "r382",
+    "text": "The emotional devastation of 'let's keep it casual.'"
+  },
+  {
+    "id": "r383",
+    "text": "A dating profile that says 'dog dad' and the dog is clearly the entire personality."
+  },
+  {
+    "id": "r384",
+    "text": "The power dynamic of who follows back first on Instagram."
+  },
+  {
+    "id": "r385",
+    "text": "A road trip where someone controlled the aux and played the same song 17 times."
+  },
+  {
+    "id": "r386",
+    "text": "The unspoken horror of sending a risky text and then entering an elevator with no signal."
+  },
+  {
+    "id": "r387",
+    "text": "A drunk voicemail that starts with 'Don't be mad but...'"
+  },
+  {
+    "id": "r388",
+    "text": "Getting relationship red-flag advice from someone with 14 red flags of their own."
+  },
+  {
+    "id": "r389",
+    "text": "A compliment so backhanded it qualifies as assault."
+  },
+  {
+    "id": "r390",
+    "text": "The primal fear of the pregnancy test loading screen."
+  },
+  {
+    "id": "r391",
+    "text": "Someone who thinks 'playing hard to get' means ignoring messages for 72 hours."
+  },
+  {
+    "id": "r392",
+    "text": "A 'self-improvement arc' that's really just buying new clothes and getting a haircut."
+  },
+  {
+    "id": "r393",
+    "text": "The devastation of running into someone when you said you're 'not feeling well.'"
+  },
+  {
+    "id": "r394",
+    "text": "Explaining to my mom that 'staying over at a friend's' means exactly what she thinks."
+  },
+  {
+    "id": "r395",
+    "text": "A relationship so toxic it has its own Wikipedia page."
+  },
+  {
+    "id": "r396",
+    "text": "The haunting presence of my ex's mother who still follows me on Instagram."
+  },
+  {
+    "id": "r397",
+    "text": "A noise so suspicious the roommate knocked and asked 'are you okay?'"
+  },
+  {
+    "id": "r398",
+    "text": "The unfiltered horror of someone screen-recording your story without your knowledge."
+  },
+  {
+    "id": "r399",
+    "text": "Waking up and choosing chaos instead of therapy."
+  },
+  {
+    "id": "r400",
+    "text": "A man who describes himself as 'old soul' but acts like he's 16."
+  },
+  {
+    "id": "r401",
+    "text": "The terrifying calm of someone saying 'I'm not angry, I'm disappointed.'"
+  },
+  {
+    "id": "r402",
+    "text": "A family gathering where someone mentioned my 'phase.'"
+  },
+  {
+    "id": "r403",
+    "text": "Emotional trauma dressed up as 'character development.'"
+  },
+  {
+    "id": "r404",
+    "text": "A gym mirror selfie with a filter so heavy the weights look Photoshopped."
+  },
+  {
+    "id": "r405",
+    "text": "The chaos of using Google Pay to split a ₹200 bill among six friends."
+  },
+  {
+    "id": "r406",
+    "text": "A hookup playlist that starts with The Weeknd and ends with 'Tujhe Dekha Toh.'"
+  },
+  {
+    "id": "r407",
+    "text": "The betrayal of someone using my Netflix profile and leaving their watch history."
+  },
+  {
+    "id": "r408",
+    "text": "A party where someone put on a sad playlist and killed the vibe entirely."
+  },
+  {
+    "id": "r409",
+    "text": "The spiritual awakening that happens only in the shower post-breakup."
+  },
+  {
+    "id": "r410",
+    "text": "A beard grown specifically to hide emotional vulnerability."
+  },
+  {
+    "id": "r411",
+    "text": "The delusional optimism of ordering a salad at a buffet."
+  },
+  {
+    "id": "r412",
+    "text": "An Instagram story so obviously about me that even my mom asked about it."
+  },
+  {
+    "id": "r413",
+    "text": "A passive-aggressive Venmo request for ₹47.50 from 'that dinner.'"
+  },
+  {
+    "id": "r414",
+    "text": "The terrifying calm before your Indian parent finds your report card."
+  },
+  {
+    "id": "r415",
+    "text": "A date who showed up with a printed itinerary and a backup plan for the backup plan."
+  },
+  {
+    "id": "r416",
+    "text": "The unspoken bond between two people who've both been cheated on by the same person."
+  },
+  {
+    "id": "r417",
+    "text": "A midnight Maggi that hit harder than any romantic gesture ever could."
+  },
+  {
+    "id": "r418",
+    "text": "The deeply uncool act of saving a screenshot of a compliment I received two years ago."
+  },
+  {
+    "id": "r419",
+    "text": "Someone's mom calling in the middle of a hookup."
+  },
+  {
+    "id": "r420",
+    "text": "A group trip that was planned for six months and fell apart in six minutes."
+  },
+  {
+    "id": "r421",
+    "text": "The existential dread of a 'how's married life?' question."
+  },
+  {
+    "id": "r422",
+    "text": "A condom wrapper found by the wrong person at the wrong time."
+  },
+  {
+    "id": "r423",
+    "text": "My emotional range: mild irritation to full Bollywood breakdown."
+  },
+  {
+    "id": "r424",
+    "text": "The deeply unsettling confidence of a man in cargo shorts."
+  },
+  {
+    "id": "r425",
+    "text": "A dating profile so toxic I swiped right out of morbid curiosity."
+  },
+  {
+    "id": "r426",
+    "text": "The unbothered energy of a cat watching my entire life fall apart."
+  },
+  {
+    "id": "r427",
+    "text": "A drunk truth-or-dare answer that permanently altered group dynamics."
+  },
+  {
+    "id": "r428",
+    "text": "Someone who puts 'sapiosexual' in their bio and can't spell 'definitely.'"
+  },
+  {
+    "id": "r429",
+    "text": "The chaotic evil of forwarding a 'don't forward this' message."
+  },
+  {
+    "id": "r430",
+    "text": "A love confession delivered in the middle of a heated argument about parking."
+  },
+  {
+    "id": "r431",
+    "text": "Accidentally moaning your dog's name during intimacy."
+  },
+  {
+    "id": "r432",
+    "text": "A Bangalore tech bro calculating your runway during a first date."
+  },
+  {
+    "id": "r433",
+    "text": "Whispering \"Tu janta hai mera baap kaun hai?\" under the sheets."
+  },
+  {
+    "id": "r434",
+    "text": "An aggressively squeaky bed in an apartment with paper-thin walls."
+  },
+  {
+    "id": "r435",
+    "text": "Pulling a hamstring mid-thrust and pretending it was pure passion."
+  },
+  {
+    "id": "r436",
+    "text": "Explaining to rishta aunty why you don't believe in arranged marriage."
+  },
+  {
+    "id": "r437",
+    "text": "Taking a screenshot so fast you accidentally FaceTime them."
+  },
+  {
+    "id": "r438",
+    "text": "A gym bro drinking raw eggs while giving unsolicited relationship advice."
+  },
+  {
+    "id": "r439",
+    "text": "A 14-paragraph apology that contains four subtle death threats."
+  },
+  {
+    "id": "r440",
+    "text": "Finding someone's hair tie on your pillow that definitely isn't yours."
+  },
+  {
+    "id": "r441",
+    "text": "An awkward 10-minute silence while looking for the missing condom wrapper."
+  },
+  {
+    "id": "r442",
+    "text": "Drunk-texting your college professor asking for emotional closure."
+  },
+  {
+    "id": "r443",
+    "text": "A South Delhi girl whose entire personality is iced lattes and emotional baggage."
+  },
+  {
+    "id": "r444",
+    "text": "Sending a spicy nude to the family WhatsApp group instead of your situationship."
+  },
+  {
+    "id": "r445",
+    "text": "Unsolicited gym locker room nudity from an aggressive 60-year-old uncle."
+  },
+  {
+    "id": "r446",
+    "text": "A toxic situationship running entirely on late-night Maggi and mutual trauma."
+  },
+  {
+    "id": "r447",
+    "text": "Turning on the lights and immediately regretting your vision."
+  },
+  {
+    "id": "r448",
+    "text": "The existential dread of hearing \"we need to talk\" at 2:00 AM."
+  },
+  {
+    "id": "r449",
+    "text": "Pretending to have an orgasm just so you can go back to eating biryani."
+  },
+  {
+    "id": "r450",
+    "text": "An Indian mother using emotional blackmail like a tactical nuclear strike."
+  },
+  {
+    "id": "r451",
+    "text": "A Tinder match who reveals they are actually looking for a startup co-founder."
+  },
+  {
+    "id": "r452",
+    "text": "Wearing matching socks specifically because you expected to get lucky."
+  },
+  {
+    "id": "r453",
+    "text": "Faking a coughing fit to escape a terrible kiss."
+  },
+  {
+    "id": "r454",
+    "text": "A hostel roommate who never knocks and makes unbroken eye contact."
+  },
+  {
+    "id": "r455",
+    "text": "Your ex's mother liking your Instagram vacation photo from three years ago."
+  },
+  {
+    "id": "r456",
+    "text": "Leaving a pair of questionable underwear in an Uber."
+  },
+  {
+    "id": "r457",
+    "text": "A PowerPoint presentation on why we should stay \"exclusive but undefined\"."
+  },
+  {
+    "id": "r458",
+    "text": "Whispering dirty talk in corporate jargon like \"let's circle back on that position\"."
+  },
+  {
+    "id": "r459",
+    "text": "The sheer humiliation of tripping over your own pants while undressing."
+  },
+  {
+    "id": "r460",
+    "text": "An unsolicited astrological analysis explaining why you are emotionally broken."
+  },
+  {
+    "id": "r461",
+    "text": "A 45-minute voice note that could have been a simple \"no\"."
+  },
+  {
+    "id": "r462",
+    "text": "Faking a phone call from your doctor to leave someone's bedroom early."
+  },
+  {
+    "id": "r463",
+    "text": "Saying \"I love you\" by accident while trying to sneeze."
+  },
+  {
+    "id": "r464",
+    "text": "A Gurgaon pub bill large enough to fund a minor space mission."
+  },
+  {
+    "id": "r465",
+    "text": "Being caught practicing your breakup speech in the bathroom mirror."
+  },
+  {
+    "id": "r466",
+    "text": "Using a scented candle to cover up the stench of poor decisions."
+  },
+  {
+    "id": "r467",
+    "text": "A situationship partner who only texts during mercury retrograde."
+  },
+  {
+    "id": "r468",
+    "text": "Lying about your height on Hinge by a solid four inches."
+  },
+  {
+    "id": "r469",
+    "text": "Forgetting their name immediately after the best three minutes of your life."
+  },
+  {
+    "id": "r470",
+    "text": "An uncle aggressively asking about your CTC at a funeral."
+  },
+  {
+    "id": "r471",
+    "text": "Making awkward eye contact with the delivery guy while wearing nothing but a towel."
+  },
+  {
+    "id": "r472",
+    "text": "A secret finsta account dedicated entirely to stalking your ex's new partner."
+  },
+  {
+    "id": "r473",
+    "text": "An unsolicited nude with atrocious studio lighting and a crooked mirror."
+  },
+  {
+    "id": "r474",
+    "text": "Pretending your phone battery died to stop an emotional conversation."
+  },
+  {
+    "id": "r475",
+    "text": "Finding half an onion and expired contraception in the nightstand."
+  },
+  {
+    "id": "r476",
+    "text": "A drunken confession that ruins friendships in three different time zones."
+  },
+  {
+    "id": "r477",
+    "text": "Explaining your fetish using a whiteboard and dry-erase markers."
+  },
+  {
+    "id": "r478",
+    "text": "Accidentally liking a three-year-old beach photo at 4:18 AM."
+  },
+  {
+    "id": "r479",
+    "text": "The sudden realization that you are the toxic one in the relationship."
+  },
+  {
+    "id": "r480",
+    "text": "A post-nut clarity session that borders on philosophical enlightenment."
+  }
 ]

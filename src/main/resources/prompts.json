@@ -1,62 +1,902 @@
 [
-  {"id":"p1","text":"Why can't I sleep at night?","pickCount":1},
-  {"id":"p2","text":"What's a girl's best friend?","pickCount":1},
-  {"id":"p3","text":"What's that smell?","pickCount":1},
-  {"id":"p4","text":"I got 99 problems but _____ ain't one.","pickCount":1},
-  {"id":"p5","text":"Maybe she's born with it. Maybe it's _____.","pickCount":1},
-  {"id":"p6","text":"What's the next Happy Meal toy?","pickCount":1},
-  {"id":"p7","text":"Here is the church. Here is the steeple. Open the doors and there is _____.","pickCount":1},
-  {"id":"p8","text":"It's a pity that kids these days are all getting involved with _____.","pickCount":1},
-  {"id":"p9","text":"During his childhood, nobody suspected that he would grow up to be _____.","pickCount":1},
-  {"id":"p10","text":"Instead of coal, Santa now gives the bad children _____.","pickCount":1},
-  {"id":"p11","text":"What's the most awkward thing to say on a first date?","pickCount":1},
-  {"id":"p12","text":"What did I bring back from Mexico?","pickCount":1},
-  {"id":"p13","text":"What am I giving up for Lent?","pickCount":1},
-  {"id":"p14","text":"What's the new trend all the kids are doing?","pickCount":1},
-  {"id":"p15","text":"What never fails to liven up the party?","pickCount":1},
-  {"id":"p16","text":"What's my secret talent?","pickCount":1},
-  {"id":"p17","text":"What did the President accidentally text to the entire country?","pickCount":1},
-  {"id":"p18","text":"What is Batman's guilty pleasure?","pickCount":1},
-  {"id":"p19","text":"What's the worst way to spend a Sunday afternoon?","pickCount":1},
-  {"id":"p20","text":"What helps Obama unwind after a long day?","pickCount":1},
-  {"id":"p21","text":"What's the gift that keeps on giving?","pickCount":1},
-  {"id":"p22","text":"Why do I hurt all over?","pickCount":1},
-  {"id":"p23","text":"What would grandma find disturbing, yet oddly charming?","pickCount":1},
-  {"id":"p24","text":"What's the best thing about living in the future?","pickCount":1},
-  {"id":"p25","text":"In a world ravaged by _____, our only solace is _____.","pickCount":2},
-  {"id":"p26","text":"That's right, I killed _____. How, you ask? _____.","pickCount":2},
-  {"id":"p27","text":"When I was tripping on acid, _____ turned into _____.","pickCount":2},
-  {"id":"p28","text":"_____: kid tested, mother approved.","pickCount":1},
-  {"id":"p29","text":"What did Vin Diesel eat for dinner?","pickCount":1},
-  {"id":"p30","text":"Whoa, dude, check out that _____!","pickCount":1},
-  {"id":"p31","text":"Next on ESPN2: The World Series of _____.","pickCount":1},
-  {"id":"p32","text":"Step 1: _____. Step 2: _____. Step 3: Profit.","pickCount":2},
-  {"id":"p33","text":"What's my anti-drug?","pickCount":1},
-  {"id":"p34","text":"What made my first day of college memorable?","pickCount":1},
-  {"id":"p35","text":"What do old people smell like?","pickCount":1},
-  {"id":"p36","text":"The class field trip was completely ruined by _____.","pickCount":1},
-  {"id":"p37","text":"When Pharaoh remained unconvinced, Moses called down a plague of _____.","pickCount":1},
-  {"id":"p38","text":"What's a girl's best friend?","pickCount":1},
-  {"id":"p39","text":"What will I bring back in time to convince people that I am a powerful wizard?","pickCount":1},
-  {"id":"p40","text":"How did I lose my virginity?","pickCount":1},
-  {"id":"p41","text":"_____ is a slippery slope that leads to _____.","pickCount":2},
-  {"id":"p42","text":"What does Dick Cheney prefer?","pickCount":1},
-  {"id":"p43","text":"What's there a ton of in heaven?","pickCount":1},
-  {"id":"p44","text":"What would be the worst thing to put in a piñata?","pickCount":1},
-  {"id":"p45","text":"What's the crustiest?","pickCount":1},
-  {"id":"p46","text":"What did I find in my Big Mac?","pickCount":1},
-  {"id":"p47","text":"This is the way the world ends. Not with a bang but with _____.","pickCount":1},
-  {"id":"p48","text":"Coming to Broadway this season: _____: The Musical.","pickCount":1},
-  {"id":"p49","text":"What's that sound?","pickCount":1},
-  {"id":"p50","text":"Studies show that lab rats navigate mazes 50% faster after being exposed to _____.","pickCount":1},
-  {"id":"p51","text":"Life for American Indians was forever changed when the White Man introduced them to _____.","pickCount":1},
-  {"id":"p52","text":"What are my parents hiding from me?","pickCount":1},
-  {"id":"p53","text":"What will always get you laid?","pickCount":1},
-  {"id":"p54","text":"A romantic, candlelit dinner would be incomplete without _____.","pickCount":1},
-  {"id":"p55","text":"What did the wise man give to baby Jesus?","pickCount":1},
-  {"id":"p56","text":"Science will never explain the mystery of _____.","pickCount":1},
-  {"id":"p57","text":"In the new Disney Channel Original Movie, Hannah Montana struggles with _____ for the first time.","pickCount":1},
-  {"id":"p58","text":"What keeps me up at night?","pickCount":1},
-  {"id":"p59","text":"Future historians will agree that _____ marked the beginning of America's decline.","pickCount":1},
-  {"id":"p60","text":"I wish I had never learned about _____.","pickCount":1}
+  {
+    "id": "p1",
+    "text": "The real reason they stopped replying was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p2",
+    "text": "Nothing kills the mood faster than ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p3",
+    "text": "My therapist would quit immediately after hearing about ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p4",
+    "text": "The worst possible thing to discover in your date's bedroom is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p5",
+    "text": "Our relationship could survive anything except ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p6",
+    "text": "The group chat will never recover from ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p7",
+    "text": "The most suspicious thing to say during a hookup is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p8",
+    "text": "HR has scheduled an emergency meeting because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p9",
+    "text": "My toxic trait is thinking that ____ counts as emotional maturity.",
+    "pickCount": 1
+  },
+  {
+    "id": "p10",
+    "text": "My family would disown me if they discovered ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p11",
+    "text": "The breakup was mutual, but what really ended it was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p12",
+    "text": "I woke up at 3 AM and chose ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p13",
+    "text": "The real reason I'm single is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p14",
+    "text": "What's my Tinder bio ACTUALLY saying about me?",
+    "pickCount": 1
+  },
+  {
+    "id": "p15",
+    "text": "My ex's most unhinged quality was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p16",
+    "text": "The absolute worst 'good morning' text you could receive is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p17",
+    "text": "I lost my dignity when I ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p18",
+    "text": "The wedding was going perfectly until ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p19",
+    "text": "My autopilot drunk self always ends up doing ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p20",
+    "text": "What's the most unhinged thing you'd do for WiFi?",
+    "pickCount": 1
+  },
+  {
+    "id": "p21",
+    "text": "If my browser history was read aloud at my funeral, people would learn about ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p22",
+    "text": "What would make even a therapist go 'what the actual f***'?",
+    "pickCount": 1
+  },
+  {
+    "id": "p23",
+    "text": "The worst thing to whisper in someone's ear at a family dinner is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p24",
+    "text": "My 'healing phase' consists entirely of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p25",
+    "text": "The most cursed dating app profile I've ever seen featured ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p26",
+    "text": "What I do when no one is watching: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p27",
+    "text": "The one thing keeping me from being a fully functioning adult is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p28",
+    "text": "What's worse than stepping on a Lego at 2 AM?",
+    "pickCount": 1
+  },
+  {
+    "id": "p29",
+    "text": "I sent '____ ' to the wrong person and now I'm legally dead.",
+    "pickCount": 1
+  },
+  {
+    "id": "p30",
+    "text": "My roommate walked in on me doing ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p31",
+    "text": "The real reason I got fired was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p32",
+    "text": "Netflix and chill, but the 'chill' part is actually ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p33",
+    "text": "What's the most emotionally devastating thing a one-night stand could say?",
+    "pickCount": 1
+  },
+  {
+    "id": "p34",
+    "text": "I pretend to be normal, but secretly I ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p35",
+    "text": "The gym bro in me wants to confess that ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p36",
+    "text": "What keeps me up at 3 AM is definitely not anxiety, it's ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p37",
+    "text": "My love language is actually ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p38",
+    "text": "The wildest thing my Uber driver has ever said to me was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p39",
+    "text": "I knew it was a situationship when ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p40",
+    "text": "My body count is none of your business, but ____ is.",
+    "pickCount": 1
+  },
+  {
+    "id": "p41",
+    "text": "At my funeral, please play ____ and then reveal ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p42",
+    "text": "I went on a date and discovered that ____ was their idea of foreplay.",
+    "pickCount": 1
+  },
+  {
+    "id": "p43",
+    "text": "Step 1: ____. Step 2: ____. Step 3: Emotional collapse.",
+    "pickCount": 2
+  },
+  {
+    "id": "p44",
+    "text": "What's hiding in my 'Recently Deleted' photos?",
+    "pickCount": 1
+  },
+  {
+    "id": "p45",
+    "text": "The office Slack channel erupted when someone accidentally posted ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p46",
+    "text": "My FWB arrangement fell apart because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p47",
+    "text": "If you listen closely at midnight, you can hear me ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p48",
+    "text": "The new gym rule was created specifically because someone ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p49",
+    "text": "What did the astrology girl blame on Mercury retrograde this time?",
+    "pickCount": 1
+  },
+  {
+    "id": "p50",
+    "text": "I would rather eat glass than admit that I ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p51",
+    "text": "My dating red flag is ____, but my green flag is ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p52",
+    "text": "The walk of shame was made infinitely worse by ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p53",
+    "text": "My Instagram 'Close Friends' story that should have stayed private: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p54",
+    "text": "The couples counsellor took one look at us and said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p55",
+    "text": "Shaadi.com rejected my profile because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p56",
+    "text": "My arranged marriage rishta went sideways when aunty discovered ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p57",
+    "text": "Bhai log, gym mein kal kya hua? ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p58",
+    "text": "Indian parents would rather die than accept that their kid ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p59",
+    "text": "The most unhinged thing someone has said in a shaadi function is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p60",
+    "text": "The hostel warden caught us doing ____ at 2 AM.",
+    "pickCount": 1
+  },
+  {
+    "id": "p61",
+    "text": "The IT cell employee's secret kink is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p62",
+    "text": "Rishta aunty's WhatsApp status said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p63",
+    "text": "The real reason desi kids don't bring their partners home is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p64",
+    "text": "My Hinge prompt says 'I'm looking for someone who' but I actually want ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p65",
+    "text": "The absolute worst reply to 'I love you' is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p66",
+    "text": "My attachment style can best be described as ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p67",
+    "text": "What's the most unhinged LinkedIn post you've ever seen?",
+    "pickCount": 1
+  },
+  {
+    "id": "p68",
+    "text": "The 'open relationship' lasted exactly one ____ before ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p69",
+    "text": "I was doing fine until my ex texted ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p70",
+    "text": "What they don't teach you in sex ed: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p71",
+    "text": "After the third drink, I always confess that ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p72",
+    "text": "The worst thing to moan accidentally is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p73",
+    "text": "My therapist charges double because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p74",
+    "text": "The real villain of every group trip is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p75",
+    "text": "I have trust issues because ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p76",
+    "text": "If my vibrator could talk, it would say ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p77",
+    "text": "I need ____ to cope with ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p78",
+    "text": "The Bumble date was going great until they mentioned ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p79",
+    "text": "My LinkedIn endorsement skills should include ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p80",
+    "text": "What's the worst reason to call an ambulance during sex?",
+    "pickCount": 1
+  },
+  {
+    "id": "p81",
+    "text": "My 'I'm totally over them' playlist is just ____ on repeat.",
+    "pickCount": 1
+  },
+  {
+    "id": "p82",
+    "text": "The scariest thing about turning 30 is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p83",
+    "text": "I peaked in life when I ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p84",
+    "text": "What should never, under any circumstances, be a couples activity?",
+    "pickCount": 1
+  },
+  {
+    "id": "p85",
+    "text": "The hostel mess food tastes like ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p86",
+    "text": "My personality is just ____ wrapped in ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p87",
+    "text": "Tinder should add a filter for ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p88",
+    "text": "The worst possible safe word is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p89",
+    "text": "My mom found ____ under my bed and now we don't make eye contact.",
+    "pickCount": 1
+  },
+  {
+    "id": "p90",
+    "text": "The group project fell apart because one person contributed ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p91",
+    "text": "What I actually learned in college was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p92",
+    "text": "The most terrifying four words in the English language: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p93",
+    "text": "My 'casual hangout' turned into ____ faster than expected.",
+    "pickCount": 1
+  },
+  {
+    "id": "p94",
+    "text": "Why was the company offsite banned from that hotel forever?",
+    "pickCount": 1
+  },
+  {
+    "id": "p95",
+    "text": "The unspoken rule of every Indian wedding is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p96",
+    "text": "Bhaisaab, pehle ____ karo, phir baat karo.",
+    "pickCount": 1
+  },
+  {
+    "id": "p97",
+    "text": "What's the one thing every gym bro lies about?",
+    "pickCount": 1
+  },
+  {
+    "id": "p98",
+    "text": "The worst thing to say to an Indian parent at dinner is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p99",
+    "text": "PG life taught me that sharing a room means sharing ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p100",
+    "text": "After the breakup, I found comfort in ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p101",
+    "text": "The only thing worse than being left on read is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p102",
+    "text": "What's the most emotionally manipulative text you've ever sent?",
+    "pickCount": 1
+  },
+  {
+    "id": "p103",
+    "text": "The influencer's brand deal fell apart because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p104",
+    "text": "I got a tattoo of ____ and I have no regrets (I have regrets).",
+    "pickCount": 1
+  },
+  {
+    "id": "p105",
+    "text": "If my pillow could testify in court, it would describe ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p106",
+    "text": "The walk of shame hit different when ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p107",
+    "text": "Every situationship ends the same way: ____ followed by ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p108",
+    "text": "My second date dealbreaker is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p109",
+    "text": "The Zomato delivery person has seen me at my worst, which involves ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p110",
+    "text": "What's the most unhinged apology you've ever received?",
+    "pickCount": 1
+  },
+  {
+    "id": "p111",
+    "text": "The real pandemic was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p112",
+    "text": "During the lockdown, I developed an unhealthy obsession with ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p113",
+    "text": "My screen time report exposed that I spend 4 hours daily on ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p114",
+    "text": "The worst drunk purchase I ever made was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p115",
+    "text": "What's the most suspicious Google search in your history?",
+    "pickCount": 1
+  },
+  {
+    "id": "p116",
+    "text": "This friendship ended the night someone brought up ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p117",
+    "text": "My cat/dog judges me hardest when I ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p118",
+    "text": "What's the one thing that would get you excommunicated from brunch?",
+    "pickCount": 1
+  },
+  {
+    "id": "p119",
+    "text": "The awkward silence after ____ lasted approximately seven lifetimes.",
+    "pickCount": 1
+  },
+  {
+    "id": "p120",
+    "text": "My parents think I'm ____, but really I'm ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p121",
+    "text": "The most terrifying notification on your phone is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p122",
+    "text": "Why I should be banned from karaoke night forever: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p123",
+    "text": "The morning-after regret is always about ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p124",
+    "text": "What's the pettiest reason you've ever unmatched someone?",
+    "pickCount": 1
+  },
+  {
+    "id": "p125",
+    "text": "My emotional support mechanism is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p126",
+    "text": "The vacation was ruined when someone suggested ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p127",
+    "text": "I accidentally joined a cult that worships ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p128",
+    "text": "The passive-aggressive birthday wish from my ex said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p129",
+    "text": "What did the fortune cookie say that was ACTUALLY accurate?",
+    "pickCount": 1
+  },
+  {
+    "id": "p130",
+    "text": "The 'it's giving' energy right now is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p131",
+    "text": "My Roman Empire (the thing I think about daily) is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p132",
+    "text": "The engagement party was iconic because someone brought ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p133",
+    "text": "I would let ____ ruin my life.",
+    "pickCount": 1
+  },
+  {
+    "id": "p134",
+    "text": "What I'm bringing to the apocalypse: ____ and ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p135",
+    "text": "The worst unsolicited advice I've received is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p136",
+    "text": "Bro, this ain't a red flag, it's ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p137",
+    "text": "What's the most chaotic energy for a job interview?",
+    "pickCount": 1
+  },
+  {
+    "id": "p138",
+    "text": "The unwritten rule of the gym is: never ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p139",
+    "text": "Society would collapse without ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p140",
+    "text": "My will explicitly states that ____ should be buried with me.",
+    "pickCount": 1
+  },
+  {
+    "id": "p141",
+    "text": "The company's Glassdoor review mentioned ____ three times.",
+    "pickCount": 1
+  },
+  {
+    "id": "p142",
+    "text": "If God has a sense of humor, he'd make ____ the meaning of life.",
+    "pickCount": 1
+  },
+  {
+    "id": "p143",
+    "text": "Aunty ji ne poochha 'beta, shaadi kab karoge?' and I said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p144",
+    "text": "The most uncomfortable eye contact I've ever made was while doing ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p145",
+    "text": "The thing I'm most ashamed to admit I've cried about is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p146",
+    "text": "I discovered my neighbor's secret: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p147",
+    "text": "The Uber pool ride got weird when the other passenger started ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p148",
+    "text": "What's the funniest thing to yell during an earthquake?",
+    "pickCount": 1
+  },
+  {
+    "id": "p149",
+    "text": "The sex was going fine until someone said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p150",
+    "text": "My 'notes app apology' after the party incident read ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p151",
+    "text": "The last thing I want on my tombstone is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p152",
+    "text": "I used to be normal, and then I discovered ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p153",
+    "text": "My 'no judgement' friend absolutely judged me for ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p154",
+    "text": "The secret ingredient in Nani's famous recipe is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p155",
+    "text": "Swipe left if you ____, swipe right if you ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p156",
+    "text": "The worst 'would you rather' I was asked on a date was: ____ or ____?",
+    "pickCount": 2
+  },
+  {
+    "id": "p157",
+    "text": "I can't explain this to a cop, but I was only doing ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p158",
+    "text": "The office crush situation escalated when someone left ____ on my desk.",
+    "pickCount": 1
+  },
+  {
+    "id": "p159",
+    "text": "My toxic ex's horoscope literally said ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p160",
+    "text": "The bachelor/bachelorette party went off the rails because of ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p161",
+    "text": "The real reason the rishta meeting got canceled was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p162",
+    "text": "In the bedroom, nothing kills the mood faster than ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p163",
+    "text": "My toxic trait is sending ____ right after saying \"I need space\".",
+    "pickCount": 1
+  },
+  {
+    "id": "p164",
+    "text": "Bangalore tech bro started talking about ____ right in the middle of foreplay.",
+    "pickCount": 1
+  },
+  {
+    "id": "p165",
+    "text": "The most cursed message sent to the family WhatsApp group by mistake was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p166",
+    "text": "First we tried ____, and that is why we now need ____.",
+    "pickCount": 2
+  },
+  {
+    "id": "p167",
+    "text": "The secret to surviving an Indian wedding with nosy relatives is ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p168",
+    "text": "What is hiding under my bed that would give my landlord a heart attack? ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p169",
+    "text": "I knew the situationship was over when they suggested ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p170",
+    "text": "Our safe word was supposed to be pineapple, but I yelled ____ instead.",
+    "pickCount": 1
+  },
+  {
+    "id": "p171",
+    "text": "The Delhi boy's exact words before starting a bar fight: \"____\".",
+    "pickCount": 1
+  },
+  {
+    "id": "p172",
+    "text": "What caused the HR department to issue an organization-wide memo? ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p173",
+    "text": "My therapist looked at me in horror and asked: \"Why did you think ____ was a love language?\"",
+    "pickCount": 1
+  },
+  {
+    "id": "p174",
+    "text": "Forget astrology, what is your stance on ____ followed immediately by ____?",
+    "pickCount": 2
+  },
+  {
+    "id": "p175",
+    "text": "The worst thing my hostel roommate caught me doing at 3 AM was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p176",
+    "text": "A surefire way to get ghosted within 30 seconds of matching: ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p177",
+    "text": "The autopsy of our relationship concluded the cause of death was ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p178",
+    "text": "You haven't truly experienced post-nut clarity until you contemplate ____.",
+    "pickCount": 1
+  },
+  {
+    "id": "p179",
+    "text": "The pandit ji took one look at our kundalis and screamed \"____\".",
+    "pickCount": 1
+  },
+  {
+    "id": "p180",
+    "text": "The night started with ____ and somehow ended with ____.",
+    "pickCount": 2
+  }
 ]
